@@ -1,2 +1,2 @@
 # Intelligent Automation Services (IAS)
-It contains intelligent home and grid automation services.
+Intelligent home and grid automation services.
